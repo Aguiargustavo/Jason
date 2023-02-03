@@ -1,0 +1,39 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "type": "owner",
+      "name": "Gustavo Aguiar",
+      "email": "gustavoaguiar@exemplo.com",
+      "password": "123456",
+      "birthdate": "1997-01-01",
+      "cpf": "123.456.789-00"
+    }],
+
+      
+      "order status": [
+        {
+          "id": 1,
+          " description ": "pronto"
+        }],
+          
+          
+          "order": [
+            {
+              "id":1,
+              "assessment":"ótimo prato",
+              "dateTime":"2000-06-01-18:00"
+            }],
+            
+          "ordered items": [
+              {
+                "name":"Gustavo Aguiar",
+                "description":"frango assado",
+                "value":"$20,99",
+                "Note":"sem cebola"
+              }
+            ]
+            
+          
+  
+}
